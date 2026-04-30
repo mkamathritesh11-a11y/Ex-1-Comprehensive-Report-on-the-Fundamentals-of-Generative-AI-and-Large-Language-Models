@@ -64,9 +64,9 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
-```
+
 [Prompt engineering report expt 1.pdf](https://github.com/user-attachments/files/27239887/Prompt.engineering.report.expt.1.pdf)
-```
+
 Result:
 Hence the Comprehensive Report on the Fundamentals of Generative AI and Large Language Models is created.
 
